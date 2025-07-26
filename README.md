@@ -7,11 +7,9 @@
 </div>
 
 
-<h3 align="center">
-<!--   <abc> -->
+<h4 align="center">
     Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Pavel Yemelyanau, a self-motivated tech enthusiast and Full Stack Web Developer :computer:
-<!--   </abc> -->
-  </h3>
+  </h4>
 
 <div align="center">
   
