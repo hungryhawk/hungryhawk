@@ -7,7 +7,7 @@
 </div>
 
 
-<p font-size="45px" align="center">I'm Pavel Yemelyanau</code></p>
+<p font-size="55px" font-weight="bold" align="center">I'm Pavel Yemelyanau</p>
 <p align="center">Fullstack Developer</p>
 
 
