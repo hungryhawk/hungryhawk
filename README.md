@@ -7,8 +7,7 @@
 </div>
 
 
-<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyanau, a self-motivated tech enthusiast and Full Stack Web Devel![octo](https://github.com/user-attachments/assets/3dd120af-6156-4f38-af76-424e677093b5)
-oper</p>
+<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyanau, a self-motivated tech enthusiast and Full Stack Web Developer</p>
 
 <br/>
 <div align="center">
@@ -26,4 +25,5 @@ oper</p>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 </div>
+
 <br/>
