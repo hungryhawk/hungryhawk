@@ -7,15 +7,18 @@
 </div>
 
 
-<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyanau</p>
+<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyana, a self-motivated tech enthusiast and full stack web developer</p>
 <p align="center">Fullstack Developer</p>
 
 
 
 <br/>
+<div align="center">
+  
+### My Tech Stack:
+</div>
 
-### My stack:
-
+<div align="center">
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
@@ -24,4 +27,5 @@
 <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
 <code><img height="30" src="https://cdn4.iconfinder.com/data/icons/flat-pro-database-set-1/32/sql-badge-512.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
+</div>
 <br/>
