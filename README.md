@@ -7,10 +7,8 @@
 </div>
 
 
-<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyana, a self-motivated tech enthusiast and full stack web developer</p>
-<p align="center">Fullstack Developer</p>
-
-
+<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyanau, a self-motivated tech enthusiast and Full Stack Web Devel![octo](https://github.com/user-attachments/assets/3dd120af-6156-4f38-af76-424e677093b5)
+oper</p>
 
 <br/>
 <div align="center">
