@@ -7,14 +7,9 @@
 </div>
 
 
-<p font-size="40px" align="center"><code>Hi, I'm Anton Filippovich</code></p>
-<p align="center"><code>Fullstack Software Engineer</code></p>
+<p font-size="45px" align="center">I'm Pavel Yemelyanau</code></p>
+<p align="center">Fullstack Developer</p>
 
-
-<!-- ### <p align="center">I'm self-taught passionate FullStack developer from Minsk 🏙 </p> -->
-<!-- ### <p align="center">- 🌱 I’m currently learning svelte & three.js</p> -->
-<!-- <p align="center">- 👨‍🎓 BSUIR student</p> -->
-<p align="center">- 📫 How to reach me: antonfilippovich.job@gmail.com </p>
 
 
 <br/>
