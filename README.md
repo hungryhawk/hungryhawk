@@ -7,9 +7,8 @@
 </div>
 
 
-<p font-size="55px" font-weight="500" align="center">I'm Pavel Yemelyanau, a self-motivated tech enthusiast and Full Stack Web Developer</p>
+<p font-size="55px" align="center">I'm Pavel Yemelyanau, a self-motivated tech enthusiast and Full Stack Web Developer</p>
 
-<br/>
 <div align="center">
   
 ### My Tech Stack:
