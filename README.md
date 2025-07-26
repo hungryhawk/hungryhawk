@@ -4,6 +4,6 @@
 
 <div align="center">
 
-# Welcome To My GitHub Profile !
+# Welcome to my GitHub profile!
 
 </div>
